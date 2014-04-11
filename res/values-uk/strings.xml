@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello translate</string>
+    <string name="ok_button_caption">Гаразд</string>
+    <string name="cancel_button_caption">Відміна</string>  
+    <string name="action_about">Про програму</string>
+    <string name="translate_caption">Перекласти</string>
+    <string name="net_problem_caption">Проблеми з мережею</string>
+    <string name="no_connection_caption">Відсутнє з’єднання з мережею.</string>
+    <string name="cannot_connection_message">Не можу з’єднатись з Інтернетом. Будьласка, перевірте мережеві налаштування та спробуйте знову.</string>
+    <string name="settings_btn_caption">Налаштувати</string>
+    <string name="translate_fail_message">Не вдалося завантажити переклад.</string>
+    <string name="speaker_fail_message">Не вдалося завантажити звук. Проблеми з мережею.</string>
+    <string name="input_text_hint">Введіть текст для перекладу</string>
+    <string name="about_text"> Ця хелловорлд демо програма є просто обгорткою навколо запитів до веб сервісу Google translate.
+        \nПрограма розроблена для перевірки можливості роботи з цим сервісом із Android додатку таким чином та переконатись, що таку програму дозволено викласти на Google play.
+        \n\nВихідний код проекту знаходиться: https://github.com/alisovets/AndroidHelloTranslate.
+        \n\nРозробник Лісовець Олександр, Україна, 2014.
+        \na.lisovets.android.dev@gmail.com
+    </string>
+
+</resources>

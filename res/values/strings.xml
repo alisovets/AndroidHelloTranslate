@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello Translate</string>
+    <string name="button_description">Button</string>
+    <string name="action_about">About</string>
+    <string name="translate_caption">Translate</string>
+    <string name="net_problem_caption">Network problems</string>
+    <string name="no_connection_caption">No network connection</string>
+    <string name="cannot_connection_message">Cannot connect to internet. Please check you connection settings and try again.</string>
+    <string name="settings_btn_caption">Settings&#8230;</string>
+    <string name="translate_fail_message">Translate loading is fail.</string>
+    <string name="speaker_fail_message">Speaker fail! Network problem.</string>
+    <string name="input_text_hint">Input text for translate</string>
+    <string name="ok_button_caption">OK</string>
+    <string name="cancel_button_caption">Cancel</string>
+    <string name="about_text"> This Helloworld program is just a wrapper around requests to the Google Translate web service.
+        	\nThe program is designed to test the ability to work with this service from an Android application in this way and make sure that it is allowed to publish such apps on Google play.
+        	\n\nSee https://github.com/alisovets/AndroidHelloTranslate for the source code. 
+        	\n\nDeveloped by Alexander Lisovets, Ukraine, 2014.
+        	\na.lisovets.android.dev@gmail.com 
+    </string>
+
+</resources>
