@@ -7,7 +7,7 @@ Currently I'm creating a free app where going to use the translation of texts an
 
 * Min SDK version - 7 (Android 2.1)
 
-![Screenshot](https://github.com/alisovets/AndroidHelloTranslate/blob/master/Screenshots/screen1.png) ![Screenshot](https://github.com/alisovets/AndroidHelloTranslate/blob/master/Screenshots/screen2.png) ![Screenshot](https://github.com/alisovets/AndroidHelloTranslate/blob/master/Screenshots/screen3.png)
+![Screenshot](https://github.com/alisovets/AndroidHelloTranslate/blob/master/Screenshots/screen1.png?raw=true) ![Screenshot](https://github.com/alisovets/AndroidHelloTranslate/blob/master/Screenshots/screen2.png?raw=true) ![Screenshot](https://github.com/alisovets/AndroidHelloTranslate/blob/master/Screenshots/screen4.png?raw=true)
 
 
 
